@@ -13,7 +13,9 @@
         android:allowBackup="true"
         android:label="AutoSplit BYD"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        android:icon="@drawable/ic_autosplit_icon"
+        android:roundIcon="@drawable/ic_autosplit_icon">
 
         <activity
             android:name=".MainActivity"
